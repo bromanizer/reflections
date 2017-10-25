@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+I can see what files are in the repository and which of these have changed recently.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I can make logical changes over multiple files, not just one.
+I will not make more commits than necessary.
+
+
