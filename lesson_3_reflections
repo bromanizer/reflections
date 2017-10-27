@@ -1,7 +1,10 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    If it is sensible Data that should be stored in multiple places.
+    If people from many different countries work on the same project.
+    If I want people who I don't know yet to contribute to my code.
+    If I want people to help me with my code. They shoul have access to all the relevant files.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
