@@ -9,3 +9,8 @@ I can make logical changes over multiple files, not just one.
 I will not make more commits than necessary.
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together adopts the individual changes of every branch. 
+They have a common history. If one change was to delete some of their common history, this change will not be adopted.
+We present it that way, because it shows how they split up, implement their own changes and then merge again.
